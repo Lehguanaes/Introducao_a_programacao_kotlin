@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7fobe&size=35&center=true&vCenter=true&width=1000&lines=;Exercício+seis!;Indrodução+a+programação+Kotlin;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7fobe&size=35&center=true&vCenter=true&width=1000&lines=;Exercício+sete!;Indrodução+a+programação+Kotlin;)](https://git.io/typing-svg)
 
 A saída do programa é:
 

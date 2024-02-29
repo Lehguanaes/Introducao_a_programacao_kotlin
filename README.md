@@ -2,4 +2,4 @@
 
 A saída do programa é:
 
-<img width="700" alt="image" src="https://github.com/Lehguanaes/Introducao_a_programacao_kotlin/assets/125403978/cdb4ac96-2b91-4f81-b8f8-78f48a441654">
+<img width="800" alt="image" src="https://github.com/Lehguanaes/Introducao_a_programacao_kotlin/assets/125403978/b88ab169-050a-4340-bdcb-5571d2d922a6">

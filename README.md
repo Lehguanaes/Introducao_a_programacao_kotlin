@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7fobe&size=35&center=true&vCenter=true&width=1000&lines=Indrodução+a+programação+Kotlin;Primeiros+exercícios+feitos!;Perfil+no+Google+for+Developers:;https://g.dev/Lehguanaes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7fobe&size=35&center=true&vCenter=true&width=1000&lines=;Exercício+seis!;Indrodução+a+programação+Kotlin;)](https://git.io/typing-svg)
 
-Curso feito disponibilizado no https://developer.android.com/ com o intuito de aprender conceitos introdutórios de programação em Kotlin para se preparar para a criação de apps Android em Kotlin.
-Conferir selos adquiridos em https://g.dev/Lehguanaes !
+A saída do programa é:
 
-
+<img width="800" alt="image" src="https://github.com/Lehguanaes/Introducao_a_programacao_kotlin/assets/125403978/f937eade-c90e-4361-99e6-47344b28969c">
